@@ -18,8 +18,8 @@
         },
         "require": {
           "heroku-sys/heroku": "^20.0.0",
-          "heroku-sys/php": "7.4.*",
-          "heroku/installer-plugin": "^1.2.0"
+          "heroku-sys/php": "8.1.*",
+          "heroku/installer-plugin": "^2.2.0"
         },
         "time": "2020-06-23 17:49:05",
         "type": "heroku-sys-php-extension",
