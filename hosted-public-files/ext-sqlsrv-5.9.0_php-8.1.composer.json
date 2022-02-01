@@ -4,7 +4,7 @@
   },
   "dist": {
     "type": "heroku-sys-tar",
-    "url": "https://cw-heroku-buildpacks.s3.amazonaws.com/dist-stable/php-8.1/sqlsrv-5.10.0.tar.gz"
+    "url": "https://github.com/jacob-martinez-cw/heroku-buildpack-msodbcsql17-php81/raw/main/hosted-public-files/php-8.1/sqlsrv-5.10.0.tar.gz"
   },
   "extra": {
   },
